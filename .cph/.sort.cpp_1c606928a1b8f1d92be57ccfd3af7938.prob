@@ -1,0 +1,1 @@
+{"name":"Local: sort","url":"c:\\Users\\26907\\Desktop\\Algorithm Code\\sort.cpp","tests":[{"id":1761281564695,"input":"11\n4 981 10 -17 0 -20 29 50 8 43 -5","output":"-20 -17 -5 0 4 8 10 29 43 50 981"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\26907\\Desktop\\Algorithm Code\\sort.cpp","group":"local","local":true}
